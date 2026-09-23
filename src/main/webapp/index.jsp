@@ -8,6 +8,14 @@
                 <label for="Mother name">Mother Name:</label>
                 <input type="text" id="Mother name" name="Mother name" required>
                 <br><br>
+                
+                <label for="Father name">Father Name:</label>
+                <input type="text" id="Father name" name="Father name" required>
+                <br><br>
+                
+                <label for="Sister name">Sister Name:</label>
+                <input type="text" id="Sister name" name="Sister name" required>
+                <br><br>
 
                 <label for="email">Email:</label>
                 <input type="email" id="email" name="email" required>
