@@ -24,6 +24,10 @@
                 <label for="email">Email:</label>
                 <input type="email" id="email" name="email" required>
                 <br><br>
+                
+                <label for="Passort">Passort:</label>
+                <input type="Passport" id="Passport" name="Passport" required>
+                <br><br>
 
                 <label for="message">Message:</label>
                 <textarea id="message" name="message" rows="4" cols="30"></textarea>
